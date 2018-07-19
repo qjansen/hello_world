@@ -1,2 +1,4 @@
 # hello_world
-git practise
+git more practise!
+
+this is a bit of practise with GIT
